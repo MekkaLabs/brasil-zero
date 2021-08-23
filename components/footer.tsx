@@ -21,7 +21,7 @@ const Footer = () => {
             Twitter
           </a>
           <div className="flex flex-col lg:flex-row text-center items-center lg:pl-4 lg:w-1/2">
-            <p><strong>Doar ETH/BNB:</strong> 0x4cd5E32c94d83f32b575b5719D3099b2b65461B3</p>
+            <p><strong>Doar BTC:</strong> bc1qheexuvap9rfstx6fwtwk23kc7jhyy89mpvnwzv</p>
           </div>
           <div className="flex flex-col lg:flex-row text-center items-center lg:pl-4 lg:w-1/2">
             <p><strong>Doar ETH/BNB:</strong> 0x4cd5E32c94d83f32b575b5719D3099b2b65461B3</p>
