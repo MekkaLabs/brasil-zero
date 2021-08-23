@@ -1,9 +1,9 @@
 ---
-title: 'Post 02'
+title: 'Quem foi deus?? Zeus odin, Poseidon, qual o conceito por tras de um simples termo que designa outros seres?'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-date: '2021-03-17T05:35:07.322Z'
+date: '2021-03-15T05:35:07.322Z'
 author:
-  name: Brazil 0.2
+  name: Brazil 0.1
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
