@@ -33,7 +33,9 @@ const PostPreview = ({
           <a className="hover:underline">{excerpt}</a>
         </Link>
       </p>
-      <Avatar name={author.name} />
+      <Link href="/ranking">
+        <a>
+          <Avatar name={author.name} /></a></Link>
     </div>
   )
 }
