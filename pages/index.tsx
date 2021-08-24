@@ -14,7 +14,7 @@ const Index = ({ allPosts }: Props) => {
 
   const morePosts = allPosts
   return (
-    <>
+    <div className="dark:bg-black">
       <Layout>
         <Head>
           <title>Brasil Zero</title>
@@ -28,7 +28,7 @@ const Index = ({ allPosts }: Props) => {
           </div>
         </Container>
       </Layout>
-    </>
+    </div>
   )
 }
 

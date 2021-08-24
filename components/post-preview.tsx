@@ -19,8 +19,8 @@ const PostPreview = ({
   slug,
 }: Props) => {
   return (
-    <div className="transform hover:scale-105 hover:translate-x-4 motion-reduce:transform-none duration-700">
-      <h3 className="text-3xl font-black mb-3 leading-snug">
+    <div className="">
+      <h3 className="text-3xl font-black mb-3 leading-snug transform hover:scale-105 hover:translate-x-4 motion-reduce:transform-none duration-700">
         <Link as={`/posts/${slug}`} href="/posts/[slug]">
           <a className="hover:underline transform translate-x-1/2 xl:transform-none xl:translate-x-0">{title}</a>
         </Link>
@@ -28,14 +28,16 @@ const PostPreview = ({
       <div className="text-lg mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="text-lg leading-relaxed mb-4">
+      <p className="text-lg leading-relaxed mb-4 transform hover:scale-105 hover:translate-x-4 motion-reduce:transform-none duration-700">
         <Link as={`/posts/${slug}`} href="/posts/[slug]">
           <a className="hover:underline">{excerpt}</a>
         </Link>
       </p>
-      <Link href="/ranking">
-        <a>
-          <Avatar name={author.name} /></a></Link>
+      <div className="transform hover:scale-105 hover:translate-x-4 motion-reduce:transform-none duration-700">
+        <Link href="/ranking">
+          <a >
+            <Avatar name={author.name} /></a></Link>
+      </div>
     </div>
   )
 }
